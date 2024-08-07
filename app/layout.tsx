@@ -18,7 +18,7 @@ export const metadata: Metadata = {
     { media: "(prefers-color-scheme: dark)", color: "black" },
   ],
   icons: {
-    icon: "/product/logo.jpeg",
+    icon: "/product/logo.png",
   },
 };
 

@@ -86,11 +86,14 @@ export const products = [
     ],
   },
   {
-    title: "Rogue",
-    link: "https://userogue.com",
-    thumbnails: [
-      "https://aceternity.com/images/products/thumbnails/new/rogue.png",
-    ],
+    title: "My Portfolio",
+    link: "https://xpiral-portfolio.vercel.app/",
+    thumbnails: ["product/portfolio.png"],
+  },
+  {
+    title: "My Portfolio",
+    link: "https://xpiral-portfolio.vercel.app/",
+    thumbnails: ["product/portfolio2.png"],
   },
   {
     title: "Editorially",
