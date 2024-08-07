@@ -6,10 +6,10 @@
         @apply bg-[#fffaf0];
     }
     .wall-paper {
-        @apply bg-gradient-to-r from-white via-xpiral-100 to-pink-100
+        @apply bg-gradient-to-r from-amber-100 via-xpiral-100 to-pink-100
     }
     .wall-paper-2 {
-        @apply bg-gradient-to-r from-zinc-900 via-neutral-900 to-neutral-800
+        @apply bg-gradient-to-r from-slate-900 via-slate-900 to-zinc-900
     }
 }
 
