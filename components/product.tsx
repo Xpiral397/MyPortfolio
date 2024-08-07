@@ -93,7 +93,7 @@ export const products = [
   {
     title: "My Portfolio",
     link: "https://xpiral-portfolio.vercel.app/",
-    thumbnails: ["product/portfolio2.png"],
+    thumbnails: ["/product/portfolio2.png"],
   },
   {
     title: "Editorially",
