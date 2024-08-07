@@ -120,13 +120,7 @@ export const products = [
       "https://aceternity.com/images/products/thumbnails/new/algochurn.png",
     ],
   },
-  {
-    title: "Aceternity UI",
-    link: "https://ui.aceternity.com",
-    thumbnails: [
-      "https://aceternity.com/images/products/thumbnails/new/aceternityui.png",
-    ],
-  },
+
   {
     title: "Tailwind Master Kit",
     link: "https://tailwindmasterkit.com",
